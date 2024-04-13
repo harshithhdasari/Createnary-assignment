@@ -1,0 +1,18 @@
+.hero{
+    width:100%;
+    min-height: 100vh;
+    background-image: url('../../assets/shopping-bag-cart.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+align-items: center;
+justify-content: left;
+}
+.hero-text{
+    text-align: left;
+    max-width: 800px;
+    color:black ;
+    }
+.hero-text p{
+    margin: 3%;
+}
